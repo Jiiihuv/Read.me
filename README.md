@@ -1,4 +1,5 @@
 # - ai 제어실습 과일도감
+![KakaoTalk_20221213_141224606](https://user-images.githubusercontent.com/112458984/207232872-d413dfbe-0e09-4b1f-b27c-7416769c331a.jpg)
 
 ## - 준비물 과일 
 ![1670907818113](https://user-images.githubusercontent.com/112458984/207231322-78d8b917-a9eb-4292-9609-2b387f79866c.jpg)
