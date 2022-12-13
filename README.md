@@ -1,7 +1,12 @@
 # - ai 제어실습 과일도감
+
+## - 준비물 과일 
+![1670907818113](https://user-images.githubusercontent.com/112458984/207231322-78d8b917-a9eb-4292-9609-2b387f79866c.jpg)
+
 ## - 사용한 프로그램 및 설치 파일
 ![Screenshot_20221213_135852_Chrome](https://user-images.githubusercontent.com/112458984/207230802-2cca09ba-7ea1-48d0-af03-7f0cd28bafe6.jpg)
-![Screenshot_20221213_135921_Chrome](https://user-images.githubusercontent.com/112458984/207230862-0c7de677-9c7c-46f0-b20d-25b0accf9759.jpg)
+![1670907819755](https://user-images.githubusercontent.com/112458984/207231424-84a1212c-9b59-4141-a80c-843ce12e36f7.jpg)
+![1670907815962](https://user-images.githubusercontent.com/112458984/207231265-a57d9375-e51f-4412-98af-54265af0ec23.jpg)
 
 ## - 소스코드
 ![1670906979291](https://user-images.githubusercontent.com/112458984/207230131-ff271971-9296-4d9e-8566-87ce9f426f1b.jpg)
